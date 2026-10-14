@@ -1,6 +1,6 @@
 cask "bismillah" do
-  version "1.1.1"
-  sha256 "173b6d8d39e77f0a89db9d00ef0dcc749aad51a0e7244c575f013b4ee137b7ae"
+  version "1.1.2"
+  sha256 "f068d4a2b84ec56a9602183cd4a709ccb8904ccb5260c9e53e653abb49b7129d"
 
   url "https://github.com/hafizuddin-a/bismillah-menubar/releases/download/v#{version}/Bismillah-#{version}.zip"
   name "Bismillah"
